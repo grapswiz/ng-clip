@@ -4,7 +4,7 @@
   "main": "src/ngClip.js",
   "dependencies": {
     "angular": ">=1.0.4",
-    "zeroclipboard": "~2.2.0"
+    "zeroclipboard": "git@github.com:grapswiz/zeroclipboard.git#76ba0eae8b"
   },
   "devDependencies": {}
 }
